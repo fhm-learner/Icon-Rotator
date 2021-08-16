@@ -1,0 +1,3 @@
+include ':iconrotation'
+include ':app'
+rootProject.name = "IconRotator"
