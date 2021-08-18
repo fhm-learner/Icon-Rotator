@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IconRotator</string>
+    <string name="state_name">Bihar</string>
+    <string name="district_name">Darbhanga</string>
 </resources>
